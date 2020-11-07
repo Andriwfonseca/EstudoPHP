@@ -1,0 +1,4 @@
+<?php
+	//Para arrumar acentuação
+	//É só salvar with encoding (Western ISO 8859-1)
+ ?>
